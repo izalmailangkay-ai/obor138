@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://obor138.vercel.app/sitemap.xml
